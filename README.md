@@ -7,3 +7,4 @@ This project is a simple implementation of the classic Tetris game in the C prog
 - Rotate the shapes to fit your strategy.
 - Record and display the highest score achieved.
 
+For more details, read the Report.pdf provided in this repo.
